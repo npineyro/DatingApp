@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nahue\\Proyectos Personales\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\nahue\\Proyectos Personales\\DatingApp\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nahue\\Proyectos Personales\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\nahue\\Proyectos Personales\\DatingApp\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nahue\\Proyectos Personales\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\nahue\\Proyectos Personales\\DatingApp\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\nahue\\Proyectos Personales\\DatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\nahue\\Proyectos Personales\\DatingApp\\api\\API.csproj",
         "packagesPath": "C:\\Users\\nahue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nahue\\Proyectos Personales\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\nahue\\Proyectos Personales\\DatingApp\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nahue\\AppData\\Roaming\\NuGet\\NuGet.Config",
